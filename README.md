@@ -3,8 +3,6 @@
 Welcome to my GitHub profile. 
 Here I document personal projects, homelab environments and infrastructure solutions focused on cybersecurity, networking, virtualization and automation.
 
---|
-
 ## Areas of Interest
 These are the bigger areas, If its a smaller area i might be knowledgeble about it too.
 
@@ -16,8 +14,6 @@ These are the bigger areas, If its a smaller area i might be knowledgeble about 
 - Virtualization
 - Cloud Technologies
 - Automation
-
---|
 
 ## Technologies
 This is a selection of technologies its not definitive.
@@ -36,8 +32,6 @@ This is a selection of technologies its not definitive.
 - PowerShell
 - Bash
 
---|
-
 ## Current Focus
 
 - Infrastructure Automation
@@ -46,8 +40,6 @@ This is a selection of technologies its not definitive.
 - Windows Hardening
 - Cloud Infrastructure
 - Offensive Security
-
---|
 
 ## Certifications
 
@@ -63,13 +55,9 @@ Security Engineer Certificate THM
 Cyber Security 101 Certificate THM
 Pre Security Certificate THM
 
---|
-
 ## Projects
 
 Pinned repositories below.
-
---|
 
 ## Contact
 
