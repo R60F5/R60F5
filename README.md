@@ -43,21 +43,22 @@ This is a selection of technologies its not definitive.
 
 ## Certifications
 
-CCNAv7: Introduction to Networks
-CCNAv7: Switching, Routing, and Wireless Essentials
-CCNAv7: Enterprise Networking, Security, and Automation
-Advanced Endpoint Investigations Certificate THM
-SOC Level 2 Certificate THM
-SOC Level 1 Certificate THM
-AI Security Certificate THM
-DevSecOps Certificate THM
-Security Engineer Certificate THM
-Cyber Security 101 Certificate THM
-Pre Security Certificate THM
+- CCNAv7: Introduction to Networks
+- CCNAv7: Switching, Routing, and Wireless Essentials
+- CCNAv7: Enterprise Networking, Security, and Automation
+- SOC Level 1 Certificate THM
+- SOC Level 2 Certificate THM
+- Advanced Endpoint Investigations Certificate THM
+- AI Security Certificate THM
+- DevSecOps Certificate THM
+- Security Engineer Certificate THM
+- Cyber Security 101 Certificate THM
+- Pre Security Certificate THM
 
 ## Projects
 
-Pinned repositories below.
+Pinned repositories below,
+
 
 ## Contact
 
