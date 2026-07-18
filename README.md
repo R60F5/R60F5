@@ -1,10 +1,78 @@
-- 👋 Hi, I’m @R60F5
-- 👀 I’m interested in: programming with different languages like C,C#,C++ and making webbsites
-- 🌱 I’m currently learning: C++
-- 💞️ I’m looking to collaborate on: nothing at the moment
-- 📫 How to reach me: R60F5@outlook.com
+# Cybersecurity & Infrastructure Engineer
 
-<!---
-R60F5/R60F5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile. 
+Here I document personal projects, homelab environments and infrastructure solutions focused on cybersecurity, networking, virtualization and automation.
+
+--|
+
+## Areas of Interest
+These are the bigger areas, If its a smaller area i might be knowledgeble about it too.
+
+- Cybersecurity
+- Infrastructure Engineering
+- Linux Administration
+- Windows Administration
+- Networking
+- Virtualization
+- Cloud Technologies
+- Automation
+
+--|
+
+## Technologies
+This is a selection of technologies its not definitive.
+
+- Linux
+- Windows Server
+- Proxmox VE
+- Docker
+- Active Directory
+- NGINX
+- MikroTik
+- Cisco
+- pfSense
+- OPNsense
+- Python
+- PowerShell
+- Bash
+
+--|
+
+## Current Focus
+
+- Infrastructure Automation
+- Active Directory
+- Linux Hardening
+- Windows Hardening
+- Cloud Infrastructure
+- Offensive Security
+
+--|
+
+## Certifications
+
+CCNAv7: Introduction to Networks
+CCNAv7: Switching, Routing, and Wireless Essentials
+CCNAv7: Enterprise Networking, Security, and Automation
+Advanced Endpoint Investigations Certificate THM
+SOC Level 2 Certificate THM
+SOC Level 1 Certificate THM
+AI Security Certificate THM
+DevSecOps Certificate THM
+Security Engineer Certificate THM
+Cyber Security 101 Certificate THM
+Pre Security Certificate THM
+
+--|
+
+## Projects
+
+Pinned repositories below.
+
+--|
+
+## Contact
+
+- LinkedIn: www.linkedin.com/in/sebastian-z-417651346
+- Email: r60f5@outlook.com
+
